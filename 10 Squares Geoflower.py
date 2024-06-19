@@ -1,4 +1,5 @@
 from turtle import *
+import turtle
 tom = Turtle()
 tom.shape('turtle')
 tom.speed(0)
@@ -8,3 +9,5 @@ for i in range(10):
         tom.forward(100)
         tom.left(90)
     tom.left(360/10)
+
+turtle.done()

@@ -1,4 +1,5 @@
 from turtle import *
+import turtle
 tom = Turtle()
 tom.color('black')
 tom.speed(0)
@@ -13,3 +14,4 @@ while n <= 10:
         tom.right(360/n)
     n += 1
     
+turtle.done()

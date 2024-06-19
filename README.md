@@ -1,2 +1,2 @@
 # Python-Tom-Turtle
-Collection of Python Turtle Patterns
+This is a collection of Python Turtle Patterns I made by myself
