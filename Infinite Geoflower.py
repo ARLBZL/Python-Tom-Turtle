@@ -10,4 +10,3 @@ while True:
             tom.right(360/n)
         tom.right(360/10)
     n += 1
-    

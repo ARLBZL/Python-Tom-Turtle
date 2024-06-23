@@ -1,4 +1,5 @@
 from turtle import *
+import turtle
 tom = Turtle()
 tom.speed(0)
 n = 3
@@ -11,3 +12,4 @@ for increasenbyone in range(10):
         tom.right(360/10)
     n += 1
     
+turtle.done()
