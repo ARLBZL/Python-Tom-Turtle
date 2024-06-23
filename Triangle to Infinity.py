@@ -1,6 +1,7 @@
 from turtle import *
 tom = Turtle()
 tom.speed(0)
+tom.width(5)
 
 n=3
 
