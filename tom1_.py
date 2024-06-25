@@ -22,3 +22,5 @@ def L():
     tom.bk(100)
     tom.lt(90)
     tom.fd(200)
+
+#Test 25/6/2024
